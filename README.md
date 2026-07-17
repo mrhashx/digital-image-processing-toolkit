@@ -42,7 +42,7 @@ The repository is structured as a modular library, allowing execution of distinc
 
 ## 💻 Installation & Local Execution
 
-### 1. Clone the Workspace
+### 1. Clone the Workspace by this commands
 ```bash
 git clone [https://github.com/mrhashx/digital-image-processing-toolkit.git](https://github.com/mrhashx/digital-image-processing-toolkit.git)
 cd digital-image-processing-toolkit
